@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Hangout with girlFriend",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "wake up 6am",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "work out 1 hour",
+      "completed": true
+    },
+    {
+      "id": "0.26126536155057223",
+      "title": "hello mtf",
+      "completed": false
+    },
+    {
+      "id": "0.02196195619197394",
+      "title": "lolllll",
+      "completed": false
+    },
+    {
+      "id": "0.9336924865979808",
+      "title": "dddddd",
+      "completed": false
+    }
+  ]
+}
